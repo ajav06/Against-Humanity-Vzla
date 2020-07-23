@@ -12,3 +12,9 @@ El juego es simple. En cada ronda, un jugador hace una pregunta de una carta neg
 * Django Rest Auth.
 * Django Rest Framework - SimpleJWT.
 * Djoser.
+
+## FrontEnd:
+* VueJS.
+* Axios.
+* SweetAlert2.
+* Bulma IO.
